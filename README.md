@@ -2,8 +2,6 @@
 
 [![Banner](https://user-images.githubusercontent.com/55541726/221497066-851309d1-5915-4474-9a16-1df8e49d5ccb.png)](https://github.com/jonsonkurt)
 
-
-
 ## Skills 🚀
 
 Here are some of my top skills:
