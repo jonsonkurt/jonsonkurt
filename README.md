@@ -1,6 +1,7 @@
 ## About Me 🧑‍💻
 
-I'm a **computer engineering student** with a passion for all things tech. My focus is on developing cutting-edge **mobile and desktop applications**, and I also have experience in **machine learning**, **embedded systems**, **database management**, and **UI/UX design**.
+[![Banner](https://user-images.githubusercontent.com/55541726/221496561-f75f102f-ddfe-49b9-a688-1489f64a565e.png)](https://github.com/jonsonkurt)
+
 
 ## Skills 🚀
 
