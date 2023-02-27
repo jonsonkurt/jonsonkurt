@@ -1,4 +1,4 @@
-# Welcome, friend! 👋
+## About Me 🧑‍💻
 
 I'm a **computer engineering student** with a passion for all things tech. My focus is on developing cutting-edge **mobile and desktop applications**, and I also have experience in **machine learning**, **embedded systems**, **database management**, and **UI/UX design**.
 
