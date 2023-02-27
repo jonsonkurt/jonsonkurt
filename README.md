@@ -1,6 +1,8 @@
+[![Banner](https://user-images.githubusercontent.com/55541726/221498429-81b8dcef-e046-48ce-82ac-6182da9a9446.gif)](https://github.com/jonsonkurt)
+
 ## About Me 🧑‍💻
 
-[![Banner](https://user-images.githubusercontent.com/55541726/221498429-81b8dcef-e046-48ce-82ac-6182da9a9446.gif)](https://github.com/jonsonkurt)
+I’m a **computer engineering student** with a passion for all things tech. My focus is on developing cutting-edge **mobile and desktop applications**, and I also have experience in **machine learning**, **embedded systems**, **database management**, and **UI/UX design**.
 
 ## Skills 🚀
 
