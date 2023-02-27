@@ -23,4 +23,4 @@ If you're interested in learning more about me or discussing potential projects,
 
 Let's build something incredible together! 🚀
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=vue&layout=compact)
+![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jonsonkurt&theme=dark&layout=compact)
