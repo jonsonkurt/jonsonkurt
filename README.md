@@ -6,12 +6,12 @@ I'm a **computer engineering student** with a passion for all things tech. My fo
 
 Here are some of my top skills:
 
-### 💻 Mobile and desktop application development
-### 🌐 Full stack development
-### 🤖 Machine learning
-### 🛠️ Embedded systems
-### 🗃️ Database management
-### 🎨 UI and UX design
+- 💻 Mobile and desktop application development
+- 🌐 Full stack development
+- 🤖 Machine learning
+- 🛠️ Embedded systems
+- 🗃️ Database management
+- 🎨 UI and UX design
 
 ## What I'm up to 🤔
 
