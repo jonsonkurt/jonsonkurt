@@ -1,6 +1,6 @@
 ## About Me 🧑‍💻
 
-[![Banner](https://user-images.githubusercontent.com/55541726/221497066-851309d1-5915-4474-9a16-1df8e49d5ccb.png)](https://github.com/jonsonkurt)
+[![Banner]([https://user-images.githubusercontent.com/55541726/221497066-851309d1-5915-4474-9a16-1df8e49d5ccb.png](https://user-images.githubusercontent.com/55541726/221498429-81b8dcef-e046-48ce-82ac-6182da9a9446.gif))](https://github.com/jonsonkurt)
 
 ## Skills 🚀
 
