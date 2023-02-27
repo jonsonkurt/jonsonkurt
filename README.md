@@ -23,7 +23,6 @@ If you're interested in learning more about me or discussing potential projects,
 
 Let's build something incredible together! 🚀
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jonsonkurt&theme=dark&layout=compact)
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonsonkurt&show_icons=true&theme=vue)
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jonsonkurt&theme=dark&layout=compact&exclude_repo=repo1,repo2&access_token=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)
 
