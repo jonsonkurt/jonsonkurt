@@ -1,16 +1,24 @@
-### Hi there 👋
+# Welcome, friend! 👋
 
-<!--
-**jonsonkurt/jonsonkurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **computer engineering student** with a passion for all things tech. My focus is on developing cutting-edge **mobile and desktop applications**, and I also have experience in **machine learning**, **embedded systems**, **database management**, and **UI/UX design**.
 
-Here are some ideas to get you started:
+## Skills 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some of my top skills:
+
+### 💻 Mobile and desktop application development
+### 🌐 Full stack development
+### 🤖 Machine learning
+### 🛠️ Embedded systems
+### 🗃️ Database management
+### 🎨 UI and UX design
+
+## What I'm up to 🤔
+
+I'm working on projects that involve **cloud-based databases**, **machine learning**, and **software/hardware systems**. My goal is to develop innovative solutions that push the boundaries of what's possible in technology. Whether it's improving user experiences with machine learning or creating seamless software/hardware integrations.
+
+## Get in touch 📩
+
+If you're interested in learning more about me or discussing potential projects, don't hesitate to get in touch! You can find me on [LinkedIn](https://www.linkedin.com/in/kurt-jalen-jonson-149874137) or send me an [email](mailto:kurtjalen.jonson@cvsu.edu.ph).
+
+Let's build something incredible together! 🚀
