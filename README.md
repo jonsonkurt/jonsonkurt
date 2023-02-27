@@ -1,4 +1,5 @@
-[![Banner](https://user-images.githubusercontent.com/55541726/221503264-22ab33b0-8ade-40e4-85c8-5f509985fae7.png)](https://github.com/jonsonkurt)
+[![Banner](https://user-images.githubusercontent.com/55541726/221504061-696d62e8-0530-4b07-a42f-5d67793d7d9b.gif)](https://github.com/jonsonkurt)
+
 
 ## About Me 🧑‍💻
 
