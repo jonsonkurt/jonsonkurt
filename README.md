@@ -22,8 +22,3 @@ I'm working on projects that involve **cloud-based databases**, **machine learni
 If you're interested in learning more about me or discussing potential projects, don't hesitate to get in touch! You can find me on [LinkedIn](https://www.linkedin.com/in/kurt-jalen-jonson-149874137) or send me an [email](mailto:kurtjalen.jonson@cvsu.edu.ph).
 
 Let's build something incredible together! 🚀
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonsonkurt&show_icons=true&theme=vue)
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jonsonkurt&theme=dark&layout=compact&exclude_repo=repo1,repo2&access_token=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)
-
-
