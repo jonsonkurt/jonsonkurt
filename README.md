@@ -3,18 +3,17 @@
 
 ## About Me 🧑‍💻
 
-I’m a **computer engineering student** with a passion for all things tech. My focus is on developing cutting-edge **mobile and desktop applications**, and I also have experience in **machine learning**, **embedded systems**, **database management**, and **UI/UX design**.
+I'm a **computer engineering student** with a passion for all things tech. My focus is on developing cutting-edge **mobile and desktop applications** using a full-stack approach. I also have experience in **machine learning**, **embedded systems**, **database management**, and **UI/UX design**.
 
 ## Skills 🚀
 
 Here are some of my top skills:
 
-- 💻 Mobile and desktop application development
-- 🌐 Full stack development
-- 🤖 Machine learning
-- 🛠️ Embedded systems
-- 🗃️ Database management
-- 🎨 UI and UX design
+- 💻 Full-stack development for mobile and desktop applications using **Python**, **Java**, and **Dart**
+- 🤖 Machine learning using **Python** and **Tensorflow**
+- 🛠️ Embedded systems programming using **C++/Python** and **Arduino**
+- 🗃️ Database management using **SQL** and **Firebase**
+- 🎨 UI and UX design using **Figma** and **Adobe XD**
 
 ## What I'm up to 🤔
 
