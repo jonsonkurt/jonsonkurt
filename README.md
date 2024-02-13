@@ -3,7 +3,7 @@
 
 ## About Me 🧑‍💻
 
-I'm a **computer engineering student** with a passion for all things tech. My focus is on developing cutting-edge **mobile and desktop applications** and **embedded systems**. I also have experience in **machine learning**, **database management**, and **UI/UX design**.
+I'm a **computer engineer** with a passion for all things tech. My focus is on developing cutting-edge **mobile and desktop applications** and **embedded systems**. I also have experience in **machine learning**, **database management**, and **UI/UX design**.
 
 ## Skills 🚀
 
